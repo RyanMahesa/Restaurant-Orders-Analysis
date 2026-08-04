@@ -51,8 +51,3 @@ Produced a 1-pager interactive dashboard using **Power BI** to track total gross
 <img width="1600" height="943" alt="restaurant_visualization" src="https://github.com/user-attachments/assets/72e52060-46e4-4393-9244-b711bf9d8c35" />
 
 ---
-
-**Tips Tambahan:**
-
-* Ganti teks `[Link to your SQL file]` dengan tautan asli menuju *file* SQL kamu di GitHub.
-* Kamu bisa menyisipkan gambar *dashboard* Power BI kamu di paling bawah dengan menggunakan format Markdown `![Dashboard](link_gambar_kamu)`.
