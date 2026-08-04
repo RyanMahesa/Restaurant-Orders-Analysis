@@ -48,7 +48,7 @@ Conducted data exploration and data cleaning using SQL before building the dashb
 
 Produced a 1-pager interactive dashboard using **Power BI** to track total gross income, revenue by category, and top/bottom performing menu items.
 
-*(Kamu bisa memasukkan gambar screenshot dashboard Power BI kamu di bawah bagian ini nantinya)*
+<img width="1600" height="943" alt="restaurant_visualization" src="https://github.com/user-attachments/assets/72e52060-46e4-4393-9244-b711bf9d8c35" />
 
 ---
 
