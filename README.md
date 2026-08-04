@@ -40,7 +40,7 @@ Conducted data exploration and data cleaning using SQL before building the dashb
 
 
 
-📍 **SQL Script:** [Link to your SQL file]
+📍 **SQL Script:** [EDA_&_Data_Cleaning_Restaurant.sql](EDA_&_Data_Cleaning_Restaurant.sql)
 
 📍 **Raw Data:** `restaurant_db_data_dictionary.csv`, `menu_items.csv`, `order_details.csv`
 
